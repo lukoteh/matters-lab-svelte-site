@@ -28,9 +28,7 @@ The Ethereum Name Service (ENS) is a distributed, open, and extensible naming sy
 
 Currently, when a user configures ENS and logs in to Matters.News with their wallet, their ENS domain name is displayed on the personal homepage. Each creator on using Matters.News has a static website stored on IPFS, now with one click they can set IPFS CID as contenthash field for ENS via the EIP-1577 standard. This means that over 100k content creators using Matters.News can use ENS as their personal domain, compatible with projects such as Planet, eth.limo, Brave.
 
-By supporting ENS, Matters Lab hopes to strengthen our infrastructure and integration with the Web3 ecosystems. As Web3 applications become more widely known and accepted by the public, an improved and expanded service and user
-
-experience is the inevitable path forward. Matters Lab will continue to build a truly decentralized social protocol for all creators.
+By supporting ENS, Matters Lab hopes to strengthen our infrastructure and integration with the Web3 ecosystems. As Web3 applications become more widely known and accepted by the public, an improved and expanded service and user experience is the inevitable path forward. Matters Lab will continue to build a truly decentralized social protocol for all creators.
 
 ### About Matters Lab
 
